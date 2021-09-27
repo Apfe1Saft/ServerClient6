@@ -1,0 +1,10 @@
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+add Math 4.0 4 4 4 VERY_EASY MATH 8
+show
+execute_script C:\\users\\foraa\\Desktop\\PROGRAMS\\ServerClient6\\code.TXT
+exit
